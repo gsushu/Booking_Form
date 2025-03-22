@@ -10,21 +10,10 @@ This website showcased implementing a booking application on the Little Lemon We
 
 Please note: the only functionality working on this website besides the design is the Reserve a Table function.
 
-## 🚀 Features
-- **Responsive UI** for seamless booking experience
-- **Validation** for name, email, date, and time
-- **Accessibility** with semantic HTML
-- **GitHub Deployment Ready**
-
-## 🛠️ Tech Stack
-- **React.js**
-- **Tailwind CSS**
-- **React Hook Form**
-
 ## 🔧 Installation & Usage
 Clone the repo:
 ```sh
-git clone https://github.com/YOUR_USERNAME/LittleLemonBooking.git
-cd LittleLemonBooking
+git clone https://github.com/YOUR_USERNAME/Booking_Form.git
+cd Booking_Form
 npm install
 npm start
