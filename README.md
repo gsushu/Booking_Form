@@ -1,17 +1,5 @@
 # Booking_Form
 
-LittleLemonBooking/
-│── src/
-│   ├── components/
-│   │   ├── BookingForm.js
-│   ├── App.js
-│── public/
-│── package.json
-│── tailwind.config.js
-│── postcss.config.js
-│── .gitignore
-│── README.md
-
 # Little Lemon Booking App 🍋
 
 A responsive table booking web application built with **React**, **Tailwind CSS**, and **React Hook Form**.
